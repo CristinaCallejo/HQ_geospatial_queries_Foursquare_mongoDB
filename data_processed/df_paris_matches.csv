@@ -1,0 +1,7 @@
+_id,requirement,name,lat,long,geometry
+607e7ffeef33aa3ca4c3dbd6,Elementary School,École Cambon,48.868087,2.326922,"{'type': 'Point', 'coordinates': [2.326922, 48.868087]}"
+607e7ffeef33aa3ca4c3dbe2,Cocktail Bar,Bar Hemingway,48.86874286694514,2.3275136947631836,"{'type': 'Point', 'coordinates': [2.3275136947631836, 48.86874286694514]}"
+607e7ffeef33aa3ca4c3dbe0,Music Venue,Flow,48.86334213394012,2.3148230736543423,"{'type': 'Point', 'coordinates': [2.3148230736543423, 48.86334213394012]}"
+607e7ffeef33aa3ca4c3dbdc,Travel Agency,Agence Air France Invalides,48.86240735043297,2.3147398545789883,"{'type': 'Point', 'coordinates': [2.3147398545789883, 48.86240735043297]}"
+607e7ffeef33aa3ca4c3dbd8,Elementary School,Ecole élémentaire Chomel,48.852166279569865,2.3257193263524982,"{'type': 'Point', 'coordinates': [2.3257193263524982, 48.852166279569865]}"
+607e7ffeef33aa3ca4c3dbe3,Vegetarian / Vegan Restaurant,Furahaa To Go,48.86656388405439,2.3516160249710083,"{'type': 'Point', 'coordinates': [2.3516160249710083, 48.86656388405439]}"

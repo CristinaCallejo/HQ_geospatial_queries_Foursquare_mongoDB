@@ -1,0 +1,9 @@
+_id,requirement,name,lat,long,geometry
+607e7ffeef33aa3ca4c3dbd1,Vegetarian / Vegan Restaurant,Veggie Vega Trend,52.48882852660237,13.395257592201233,"{'type': 'Point', 'coordinates': [13.395257592201233, 52.48882852660237]}"
+607e7ffeef33aa3ca4c3dbc6,Daycare,Kita 1,52.48587633513613,13.391434983073358,"{'type': 'Point', 'coordinates': [13.391434983073358, 52.48587633513613]}"
+607e7ffeef33aa3ca4c3dbcd,Jazz Club,Yorckschlösschen,52.493614967122426,13.38253056057901,"{'type': 'Point', 'coordinates': [13.38253056057901, 52.493614967122426]}"
+607e7ffeef33aa3ca4c3dbc9,Cocktail Bar,Satellite Cocktail,52.493619,13.394989,"{'type': 'Point', 'coordinates': [13.394989, 52.493619]}"
+607e7ffeef33aa3ca4c3dbcb,Nightclub,Gretchen,52.49608852832538,13.387626435292821,"{'type': 'Point', 'coordinates': [13.387626435292821, 52.49608852832538]}"
+607e7ffeef33aa3ca4c3dbc8,Airport Lounge,Melli Beese Lounge,52.480565,13.388803,"{'type': 'Point', 'coordinates': [13.388803, 52.480565]}"
+607e7ffeef33aa3ca4c3dbcf,Vegetarian / Vegan Restaurant,Witz Hummus,52.491096,13.404503,"{'type': 'Point', 'coordinates': [13.404503, 52.491096]}"
+607e7ffeef33aa3ca4c3dbc2,Elementary School,Lemgo Grundschule,52.49409087540359,13.413213715153834,"{'type': 'Point', 'coordinates': [13.413213715153834, 52.49409087540359]}"
